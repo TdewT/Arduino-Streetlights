@@ -2,7 +2,7 @@
 #include <map>
 //FIXME: Doesn't work due to timer issues, won't fix
 //#include <Arduino_LED_Matrix.h>
-//#include "MatrixForPhotoresistor.cpp"
+//#include "MatrixForPhotoresistor.h"
 
 #define lightSensorPin A0
 #define buttonPin 13
